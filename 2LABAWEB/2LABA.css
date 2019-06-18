@@ -1,0 +1,356 @@
+body{
+    font-family: Arial, SansSerif;
+    padding: 0;
+    margin: 0 auto;
+    zoom: 70%;
+}
+.BC{
+    height: 4000px;
+    width: 2000px;
+    padding: 0;
+    margin: 0 auto;
+}
+.container-1{
+display: flex;
+}
+.container-2{
+    display: flex;
+    justify-content: center;
+}
+.container-2 div{
+    padding: 0;
+}
+.container-1 div{
+    padding: 0;
+}
+container-3{
+     display: flex;
+     justify-content: center;
+ }
+.container-3 div{
+    padding: 0;
+}
+container-4{
+    display: flex;
+    justify-content: center;
+}
+.container-4 div{
+    padding: 0;
+}
+container-5{
+    display: flex;
+    justify-content: center;
+}
+.container-5 div{
+    padding: 0;
+}
+container-6{
+    display: flex;
+    justify-content: center;
+}
+.container-6 div{
+    padding: 0;
+}
+container-7{
+    display: flex;
+    justify-content: center;
+}
+.container-7 div{
+    padding: 0;
+}
+.box-1{
+    background-image: url("img/BlueSmallSquare.png");
+    height: 72px;
+    width: 580px;
+
+}
+.box-2{
+    height: 72px;
+    margin-right: 25px;
+}
+.box-3{
+    margin-right: 135px;
+}
+.nav1{
+    float: right;
+}
+.nav2{
+    float: left;
+}
+.menu{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.menu li{
+    float: left;
+    display: block;
+    padding-right: 36px;
+    margin-top: 28px;
+}
+.menu li a {
+    color: #1a54e7;
+    text-decoration: none;
+    font-size: 18px;
+}
+.menu2{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.menu2 li{
+    float: left;
+    display: block;
+    margin-top: 28px;
+    padding-right: 15px;
+}
+.menu2 li a {
+    color: #989e9e;
+    text-decoration: none;
+    font-size: 18px;
+}
+.Square-1{
+
+}
+.Square-2{
+    height: 72px;
+}
+.Text{
+    float: right;
+    margin-top: 28px;
+    margin-right: 10px;
+}
+.box-c2{
+    background-image: url("img/TopImageRectangle.png");
+    height: 816px;
+    width: 2000px;
+    margin: 0;
+}
+.AL{
+float: left;
+    margin-top: 380px;
+}
+.AR{
+float: right;
+    margin-top: 380px;
+}
+.RP{
+    position: absolute;
+  height: 135px;
+    width: 135px;
+    margin-top: 215px;
+    margin-left: 875px;
+}
+.P{
+position: absolute;
+    margin-top: 735px;
+    margin-left: 340px;
+}
+.T{
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 510px;
+}
+.TG{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 755px;
+    margin-left: 1400px;
+}
+.TB{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 755px;
+    margin-left: 1460px;
+}
+.GrayBox{
+    background-image: url("img/GraySquare.png");
+    height: 500px;
+    width: 2000px;
+    margin: 0;
+}
+.WhiteBox{
+    background:white;
+    height: 1370px;
+    width: 2000px;
+    margin: 0;
+}
+.BlueBox{
+    background-image: url("img/BlueLongSquare.png");
+    height: 417px;
+    width: 2000px;
+    margin: 0;
+}
+.WhiteBox2{
+    background:white;
+    height: 340px;
+    width: 2000px;
+    margin: 0;
+}
+.P1{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+.P1T{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 400px;
+}
+.TG2{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 400px;
+}
+.TB2{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 520px;
+}
+.Trips{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 400px;
+}
+.P2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1025px;
+}
+.P2T{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 1025px;
+}
+.Tech{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 1025px;
+}
+.TG3{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 1025px;
+}
+.TB3{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 1150px;
+}
+.Cum{
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 670px;
+}
+.N{
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 670px;
+}
+.BRR{
+    position: absolute;
+    margin-top: 215px;
+    margin-left: 826px;
+}
+.SU{
+    position: absolute;
+    margin-top: 215px;
+    margin-left: 1025px;
+}
+.P1-2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 400px;
+}
+.P1T-2{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 400px;
+}
+.TG2-2{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 400px;
+}
+.TB2-2{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 520px;
+}
+.Trips-2{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 400px;
+}
+.P2-2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1025px;
+}
+.P2T-2{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 1025px;
+}
+.Tech-2{
+    position: absolute;
+    margin-top: 240px;
+    margin-left: 1025px;
+}
+.TG3-2{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 1025px;
+}
+.TB3-2{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 395px;
+    margin-left: 1150px;
+}
+.P3{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 395px;
+}
+.Proin{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 725px;
+}
+.Trips-3{
+    position: absolute;
+    margin-top: 390px;
+    margin-left: 404px;
+}
+.TG3-3{
+    position: absolute;
+    color: #989e9e;
+    text-decoration: none;
+    margin-top: 410px;
+    margin-left: 1385px;
+}
+.TB3-3{
+    position: absolute;
+    color: #1a54e7;
+    text-decoration: none;
+    margin-top: 410px;
+    margin-left: 1505px;
+}
